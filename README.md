@@ -86,3 +86,11 @@ scikit-learn
 ## Reproducibility
 
 Both notebooks use `RANDOM_SEED = 42` for full reproducibility. All experiments are deterministic given the same seed.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/streaming-attack-detection/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
