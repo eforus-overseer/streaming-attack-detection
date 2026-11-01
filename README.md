@@ -94,3 +94,11 @@ Both notebooks use `RANDOM_SEED = 42` for full reproducibility. All experiments 
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/streaming-attack-detection/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for streaming-attack-detection](assets/pixel-art.svg)
+
+A small visual signature for this repository.
